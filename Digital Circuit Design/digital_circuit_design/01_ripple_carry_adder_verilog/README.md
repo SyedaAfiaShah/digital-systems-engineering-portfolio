@@ -86,10 +86,10 @@ This lab demonstrates the two fundamental ways to describe hardware in HDL. Gate
 
 ## Simulation Evidence
 
-ModelSim waveform screenshots showing correct Sum and Cout outputs for both test vectors are in `assets/`.
+ModelSim waveform screenshots showing correct Sum and Cout outputs for both test vectors are in `lab report doc`.
 
 ---
 
 ## Reference
 
-📎 Full Lab Report: `lab_report.pdf`
+📎 Full Lab Report: `DSD_lab2.pdf`
